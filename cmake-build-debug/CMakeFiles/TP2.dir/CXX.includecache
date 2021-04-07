@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/stopp/CLionProjects/TP2/main.cpp
+iostream
+-
+ratio.h
+C:/Users/stopp/CLionProjects/TP2/ratio.h
+
+C:/Users/stopp/CLionProjects/TP2/ratio.h
+string
+C:/Users/stopp/CLionProjects/TP2/string
+array
+C:/Users/stopp/CLionProjects/TP2/array
+
